@@ -8,3 +8,6 @@ Additionally, some modifications were needed to get rid of reference cycles (whi
 
 # Functionality
 The library should be fully functional, but I should note that I haven't run any test cases on it.
+
+# Useage
+This repository just contains the modified Java source code, so you'll still have to setup a j2objc build on your system to use it.
