@@ -3,7 +3,7 @@ A fork of OkHttp, modified to work with j2objc so it can be run on iOS.
 
 # Contents
 This repository contains modified versions of
- - OkHttp
+ - OkHttp (3.11.0 from 2018/08/11)
  - Okio (1x branch, it seems Okio is all-Kotlin in the master branch)
  - OkHttpUrlConnection
  
